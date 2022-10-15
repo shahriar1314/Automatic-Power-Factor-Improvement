@@ -1,5 +1,5 @@
 # Automatic-Power-Factor-Improvement
-Automatic power factor improvement using arduino uno (ongoing project)
+Automatic power factor improvement using arduino uno
 
 Power factor is the ration of Active power (or the actual electrical power dissipated by an AC circuit) to the total power (the product of the rms value of current and voltage). 
 
